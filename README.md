@@ -4,7 +4,7 @@
 - 📫 you can reach me here Zahirul.eng.us@gmail.com
 - 😄 Pronouns: he/him
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,python,java,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,linux" />
 </p>
 <!---
 zahirullrb/zahirullrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
