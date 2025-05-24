@@ -9,7 +9,7 @@
 
 ### 📫 Let's Connect!
 
-Connect with me on [LinkedIn](https://linkedin.com/in/yourlinkedin) or check out my [Portfolio](https://yourwebsite.com).
+Connect with me on [LinkedIn](https://linkedin.com/in/yourlinkedin) or check out my [Portfolio](https://kidscoding.com).
 
 <!---
 zahirullrb/zahirullrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
